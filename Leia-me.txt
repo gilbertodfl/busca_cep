@@ -1,0 +1,14 @@
+Projeto para usar api de busca de CEP
+
+https://viacep.com.br/ws/01001000/json/
+https://viacep.com.br/ws/71080060/json/
+https://viacep.com.br/
+
+
+echo "# busca_cep" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gilbertodfl/busca_cep.git
+git push -u origin main
